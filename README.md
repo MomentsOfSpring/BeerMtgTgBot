@@ -18,7 +18,7 @@ Special VLADOSTAS feature for your friends
 
 ## Technologies
 
-- Python 3.13
+- Python 3.9.13
 - pyTelegramBotAPI
 - APScheduler
 
